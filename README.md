@@ -5,11 +5,11 @@ Toe review weather patterns in Hawaii as we look to open a surf and ice cream sh
 ## Results
 The following tables summarize June's temperature statistics over time.
 
-![June Temperate Statistics](https://github.com/Tavender22/surfs_up/blob/master/December%20Temp%20Stats.png)
+![June Temperate Statistics](https://github.com/joZecodes/surfs_up/blob/main/June%20Rain%20Stats.png)
 
 The following table summarizes Decembers temperature statistics over time.
 
-![December Temperature Statistics](https://github.com/Tavender22/surfs_up/blob/master/December%20Temp%20Stats.png)
+![December Temperature Statistics](https://github.com/joZecodes/surfs_up/blob/main/December%20Temp%20Stats.png)
 
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
 1) Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
